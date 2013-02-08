@@ -10,7 +10,7 @@ since it was provided in the instructions.
 Screenshots
 -----------
 
-![Processor](Mips16bit/raw/master/processor.jpg)
+![Processor](Mips16bit/raw/master/processor.png)
 
 License
 -------

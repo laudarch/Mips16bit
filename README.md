@@ -10,7 +10,7 @@ since it was provided in the instructions.
 Screenshots
 -----------
 
-![Processor](Mips16bit/master/processor.png)
+![Processor](https://raw.github.com/uberspot/Mips16bit/master/processor.png)
 
 License
 -------
